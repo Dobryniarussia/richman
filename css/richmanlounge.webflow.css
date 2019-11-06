@@ -1,4 +1,4 @@
-/* Generated on: Wed Nov 06 2019 18:54:20 GMT+0000 (UTC) */
+/* Generated on: Wed Nov 06 2019 19:32:25 GMT+0000 (UTC) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -703,6 +703,10 @@ a {
     margin-top: 0px;
     margin-left: 0px;
   }
+  .button.mob.tt.ttm.rm.w--current {
+    width: 30vw;
+    height: 11vw;
+  }
   .container-6 {
     margin-top: 0px;
   }
@@ -730,6 +734,10 @@ a {
     margin-left: 6px;
     font-weight: 400;
   }
+  .button-2.m.tt.ttm.rm {
+    width: 30vw;
+    height: 11vw;
+  }
   .button-2.m.tt.ttm.rm.w--current {
     margin-top: 0px;
     margin-left: 0px;
@@ -752,7 +760,7 @@ a {
     margin-top: 0px;
   }
   .image-7.ttm.rm.tt {
-    margin-top: -50px;
+    margin-top: 0px;
   }
   .image-8 {
     width: 15vw;
